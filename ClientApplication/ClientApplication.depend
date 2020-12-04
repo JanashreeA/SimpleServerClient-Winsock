@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1607062999 source:e:\programming\c++\project\clientapplication\main.cpp
+	<iostream>
+	"CClient.h"
+	<vector>
+
+1607006008 e:\programming\c++\project\clientapplication\include\cclient.h
+	<iostream>
+	"CSocket.h"
+	"CLogger.h"
+	<string>
+	<vector>
+	<chrono>
+	<thread>
+
+1607006049 source:e:\programming\c++\project\clientapplication\src\cclient.cpp
+	"CClient.h"
+
+1607065170 e:\programming\c++\project\csocket\include\csocket.h
+	<winsock2.h>
+	<iostream>
+	<ws2tcpip.h>
+	<vector>
+	<string>
+	<cstring>
+
+1607006279 e:\programming\c++\project\logger\include\clogger.h
+	<iostream>
+	<string>
+	<ctime>
+	<fstream>
+

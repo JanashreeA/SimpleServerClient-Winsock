@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1607006111 source:e:\programming\c++\project\csocket\src\csocket.cpp
+	"CSocket.h"
+
+1607055052 e:\programming\c++\project\csocket\include\csocket.h
+	<winsock2.h>
+	<iostream>
+	<ws2tcpip.h>
+	<vector>
+	<string>
+	<cstring>
+

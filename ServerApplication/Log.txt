@@ -1,0 +1,91 @@
+          2020-12-04.10:15:55          Hi From Client! 
+ Number List From Client :   3     
+  Number List To Client :   
+  5     
+  Number List To Client :   
+  4     
+  Number List To Client :   4     
+  1     
+  Number List To Client :   
+  2     
+  Number List To Client :   2     
+  6     
+  Number List To Client :   6     
+  78     
+  Number List To Client :   78     
+  910     
+  Number List To Client :   910     
+  
+  Number List To Client :   
+           2020-12-04.10:23:29          Hi From Client! 
+          2020-12-04.10:32:33          Hi From Client! 
+          2020-12-04.10:54:36          Hi From Client! 
+          2020-12-04.11:09:33          Hi From Client! 
+          2020-12-04.11:20:38          Hi From Client! 
+ Number List From Client :   
+           2020-12-04.11:21:28          Hi From Client! 
+          2020-12-04.11:26:34          Hi From Client! 
+ Number List From Client :   1     
+  Number List To Client :   
+  34     
+  Number List To Client :   34     
+  678     
+  Number List To Client :   678     
+  
+  Number List To Client :   
+           2020-12-04.11:51:23          Hi From Client! 
+ Number List From Client :   2     
+  Number List To Client :   2     
+  34     
+  Number List To Client :   34     
+  5     
+  Number List To Client :   
+  
+  Number List To Client :   
+           2020-12-04.11:54:44          Hi From Client! 
+          2020-12-04.11:57:12          Hi From Client! 
+ Number List From Client :   1     
+  Number List To Client :   
+  2     
+  Number List To Client :   2     
+  3     
+  Number List To Client :   
+  4     
+  Number List To Client :   4     
+  56     
+  Number List To Client :   56     
+  78     
+  Number List To Client :   78     
+  9     
+  Number List To Client :   
+  
+  Number List To Client :   
+           2020-12-04.12:17:13          Hi From Client! 
+          2020-12-04.12:19:34          Hi From Client! 
+          2020-12-04.12:22:05          Hi From Client! 
+          2020-12-04.12:22:59          Hi From Client! 
+ Number List From Client :   1     
+  Number List To Client :   
+  2     
+  Number List To Client :   2     
+  
+  Number List To Client :   
+           2020-12-04.12:31:16          Hi From Client! 
+          2020-12-04.12:37:09          Hi From Client! 
+ Number List From Client :   1     
+  Number List To Client :   
+  2     
+  Number List To Client :   2     
+  3     
+  Number List To Client :   
+  4     
+  Number List To Client :   4     
+  56     
+  Number List To Client :   56     
+  78     
+  Number List To Client :   78     
+  9     
+  Number List To Client :   
+  
+  Number List To Client :   
+ 
